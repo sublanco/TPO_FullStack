@@ -1,0 +1,60 @@
+*{
+    /*para todo el body*/
+    background-color:white;
+    text-align:center;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    color: #4682B4;
+    font-weight: bold;
+    background-color: #F5DEB3;
+    margin-left: 20px;
+
+}
+p{
+    /*para todos los parrafos*/
+    color:antiquewhite;
+    background-color: lightgrey;
+    padding: 10px;
+    text-align:justify
+
+
+}
+.parrafo{
+    /*css en especifico, linkea con class:"parrafo" en html*/
+    background-color:aquamarine;
+    font-weight: bold;
+    color: white;
+    
+
+
+}
+#especial{
+    /*muy especifico que linkea con ID en html*/
+    background-color: whitesmoke;
+    border: 1px sold red;
+    padding: 10px;
+    text-align: center;
+
+
+
+}
+#botonformulario{
+    text-align: right;
+    font-weight: bold;
+
+
+
+}
+div p{/*aplica a cajas*/
+    border: 5px solid; 
+    padding: 35px;
+    margin: 50px;
+
+
+
+
+}
